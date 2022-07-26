@@ -28,4 +28,9 @@ key: page-about
 
 This website is dedicated to displaying the work that went into my SURE project in the summer of 2022.  Under the supervision of [Paul Johnson](https://ptwiddle.github.io/) I had the opportunity to explore the world of partitions.  Part of the aim of our project was to create cool interactive web tools (as you will see throughout this website and as is demonstrated above).  It is my hope that these p5js sketches inspire people to play with partitions themselves, and that they will discover more of the mathematics in and around partitions than I have had to chance to in a very limited time frame.
 
-
+## Acknowledgements
+The interactive p5.js sketches, the actual maths, and this website would not have come into existence without the help of many people!
+- Paul Johnson - My supervisor for this project, whose patience and encouragement during this project has been admirable.  None of this would have been possible without him.  He's very cool.
+- The Gibbins family - for lending me their lego so I could build real life three-dimensional partitions.  I will get it back to you soon, I promise!
+- Wael Mohammad - for introducing me to GitHub and GitHub pages.  Thanks for all your help!
+- Honorable mentions - Neil Strickland, whose fantastic Combinatorics notes inspired the use of p5.js to make all sorts of cool interactive things for this project.  Dimitrios Roxanas for recommending that I apply for this research scheme.
