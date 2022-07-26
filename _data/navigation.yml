@@ -25,7 +25,7 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title: Home
+ # - title: Home
       # @start locale config
       # @end locale config
-    url: /index.md
+   # url: /index.md
