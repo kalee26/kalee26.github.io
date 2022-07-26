@@ -28,4 +28,4 @@ header:
   - title: About
       # @start locale config
       # @end locale config
-    url: /about.html
+    url: /index.html
