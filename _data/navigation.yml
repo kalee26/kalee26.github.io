@@ -28,4 +28,4 @@ header:
   - title: Home
       # @start locale config
       # @end locale config
-    url: /index.md
+    url: /index.html
