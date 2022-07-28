@@ -12,6 +12,6 @@ A useful way of thinking about partitions is as rows of boxes, starting with the
 
 [//]: <> (This is also a comment.)
 
-<iframe style="width: 640px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/zEYjhDenP"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/zEYjhDenP"></iframe>
 
-<iframe style="width: 640px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
+<iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
