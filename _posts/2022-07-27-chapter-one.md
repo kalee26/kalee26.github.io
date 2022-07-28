@@ -21,8 +21,6 @@ Every partition has a partner, called its conjugate.  We denote the conjugate of
 <iframe style="width: 470px; height: 280px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO" src="https://editor.p5js.org/klee26/full/IZhnc_BWJ"></iframe> 
 
 You can find the conjugate of a partition without drawing out the Young diagram so that you can see the rows and columns.
-
-<iframe style="width: 640px; height: 540px; overflow: hidden;"  scrolling="no" frameborder="0"src="https://editor.p5js.org/klee26/full/pFiieeQ9h"></iframe>
-
+<iframe style="width: 470px; height: 280px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/pFiieeQ9h"></iframe>
 
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
