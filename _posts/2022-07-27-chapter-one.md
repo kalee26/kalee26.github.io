@@ -16,15 +16,13 @@ A useful way of thinking about partitions is as rows of boxes, starting with the
 
 
 ### Conjugation
-Every partition has a partner, called its conjugation.  We denote the conjugation of a partition $$\lambda$$ as $$\lambda^{\ast}$$. To conjugate a partition, we swap the rows and columns.  For example, we can see that the conjugation of (7,5,3,1,1) is (5,3,3,2,2,1,1), as shown in the image below.
-
-[//]: <> (Make the image)
-
-Add the flip it sketch
+Every partition has a partner, called its conjugate.  We denote the conjugate of a partition $$\lambda$$ as $$\lambda^{\ast}$$. To find the conjugate of a partition, we swap the rows and columns.  For example, we can see that the conjugate of (7,5,3,1,1) is (5,3,3,2,2,1,1), as shown in the image below.
 
 <iframe style="width: 470px; height: 280px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO" src="https://editor.p5js.org/klee26/full/IZhnc_BWJ"></iframe> 
 
-Explain how to conjugate without looking at Young Diagrams.
+You can find the conjugate of a partition without drawing out the Young diagram so that you can see the rows and columns.
+
+<iframe style="width: 640px; height: 540px; overflow: hidden;"  scrolling="no" frameborder="0"src="https://editor.p5js.org/klee26/full/pFiieeQ9h"></iframe>
 
 
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
