@@ -17,9 +17,13 @@ A useful way of thinking about partitions is as rows of boxes, starting with the
 
 ### Conjugation
 Every partition has a partner, called its conjugation.  We denote the conjugation of a partition $$\lambda$$ as $$\lambda^{\ast}$$. To conjugate a partition, we swap the rows and columns.  For example, we can see that the conjugation of (6,4,4,1,1) is (5,3,3,3,1,1), as shown in the image below.
+
 [//]: <> (Make the image)
 
 Add the flip it sketch
+
+<iframe style="width: 620px; height: 420px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO" src="https://editor.p5js.org/klee26/full/IZhnc_BWJ"></iframe> 
+
 Explain how to conjugate without looking at Young Diagrams.
 
 
