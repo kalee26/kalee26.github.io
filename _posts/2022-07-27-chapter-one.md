@@ -22,7 +22,7 @@ Every partition has a partner, called its conjugation.  We denote the conjugatio
 
 Add the flip it sketch
 
-<iframe style="width: 470px; height: 270px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO" src="https://editor.p5js.org/klee26/full/IZhnc_BWJ"></iframe> 
+<iframe style="width: 470px; height: 280px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO" src="https://editor.p5js.org/klee26/full/IZhnc_BWJ"></iframe> 
 
 Explain how to conjugate without looking at Young Diagrams.
 
