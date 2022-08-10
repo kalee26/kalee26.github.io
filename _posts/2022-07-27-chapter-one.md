@@ -31,4 +31,21 @@ You can test your understanding by choosing your own partitions to conjugate usi
 
 One thing we can look at with partitions is the conditions for adding or removing boxes.  What if we want to add (or remove) a box in such a way that the result is a valid partition?
 
+Suppose $$\lambda$$ is a partition of $$n$$, and $$\lambda^{\prime}$$ a partition of $$n+1$$ obtained by adding 1 to one of the parts of $$\lambda$$, or by adding a new part of value 1.  (For some $$n \in \mathbb{N}$$.) We call $$\lambda$$ the *parent* of $$\lambda^{\prime}$$, and we call $$\lambda^{\prime}$$ the *child* of $$\lambda$$.
+
+$$\begin{prop}$$
+Let $$\lambda$$ be a partition of $$n$$ with parts of $$w$$ different values.  Then $$\lambda$$ has $$w+1$$ children. (For some $$n \in \mathbb{N}$$.)
+$$\end{prop}$$
+
+\begin{proof}
+Group together the parts of $\lambda$ which have the same value. We need to add $1$ to one of the parts.  The only possibilities of doing this and maintaining the convention of descending parts is to add $1$ to the first element of the group of parts with the same value, or to add another part of value $1$. There are $w$ groups, so the number of possibilities is $w+1$.  Hence $\lambda$ has $w+1$ children.
+\end{proof}
+
+\begin{prop}
+Let $\lambda$ be a partition of $n$ with parts of $w$ different values. Then $\lambda$ has $w$ parents. (For some $n \in \mathbb{N}$.)
+\end{prop}
+\begin{proof}
+We know that 1 has been added to one of the parts of $\lambda$, or a part of value 1 has been added.  Again, group the parts into parts of the same value.  The only place 1 could have been added within each group is the last element of each group (because we write partitions in descending order).  It follows that $\lambda$ has $w$ parents.
+\end{proof}
+
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
