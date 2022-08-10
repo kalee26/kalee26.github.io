@@ -22,7 +22,7 @@ Every partition has a partner, called its conjugate.  We denote the conjugate of
 
 You can find the conjugate of a partition without drawing out the Young diagram. Look at your partition $$\lambda = (\lambda_1, \dots, \lambda_r)$$ and for each $$i \in \lbrack 1,\lambda_1 \rbrack$$, count the number of parts in $$\lambda$$ which are greater than or equal to $$i$$.
 
-For example, take the partition
+For example, take the partition $$(5,3,2,2,2)$$.  There are 5 parts greater than or equal to 1, 5 parts greater than or equal to 2, 2 parts greater than or equal to 3, 1 part greater than or equal to 4, and 1 part greater than or equal to 5.  Thus the conjugate of $$\lambda$$ is $$\lambda^{\ast} = (5,5,2,1,1).
 <iframe style="width: 470px; height: 280px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/pFiieeQ9h"></iframe>
 
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
