@@ -45,4 +45,8 @@ Let $$\lambda$$ be a partition of $$n$$ with parts of $$w$$ different values. Th
 Proof:
 We know that 1 has been added to one of the parts of $$\lambda$$, or a part of value 1 has been added.  Again, group the parts into parts of the same value.  The only place 1 could have been added within each group is the last element of each group (because we write partitions in descending order).  It follows that $$\lambda$$ has $$w$$ parents.
 
+<iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/b0JLnIhW0"></iframe>
+
+<iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e1ISiOZA7"></iframe>
+
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
