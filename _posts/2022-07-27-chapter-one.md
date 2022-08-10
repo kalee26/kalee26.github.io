@@ -27,4 +27,8 @@ For example, take the partition $$(5,3,2,2,2)$$.  There are 5 parts greater than
 You can test your understanding by choosing your own partitions to conjugate using the interactive sketch below.  Click 'Flip it' to see the conjugated partition.
 <iframe style="width: 470px; height: 280px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/pFiieeQ9h"></iframe>
 
+### Adding and removing boxes
+
+One thing we can look at with partitions is the conditions for adding or removing boxes.  What if we want to add (or remove) a box in such a way that the result is a valid partition?
+
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
