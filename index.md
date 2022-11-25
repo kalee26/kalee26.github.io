@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Faculty of Science - Katie Lee
+  en      : &EN       
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -25,10 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-## School of Mathematics and Statistics, Paul Johnson, Katie Lee
-
-<img class="image image--sm" src="assets/images/sure_logo.jpg"/>
-<img class="image image--sm" src="assets/images/uni_logo.jpg"/>
+## Faculty of Science, School of Mathematics and Statistics, Paul Johnson, Katie Lee
 
 <iframe style="width: 420px; height: 220px; overflow: hidden;" scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/9dUub182W"></iframe> 
 
