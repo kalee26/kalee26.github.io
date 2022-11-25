@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       SURE Project 2022
+  en      : &EN       Faculty of Science - Katie Lee
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
