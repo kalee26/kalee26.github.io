@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: 
   # @start locale config
   en      : &EN       
   en-GB   : *EN
@@ -26,8 +26,6 @@ titles:
 key: page-about
 ---
 ## Faculty of Science, School of Mathematics and Statistics, Paul Johnson, Katie Lee
-
-![Sure logo](/kalee26.github.io/assets/images/sure_logo.jpg)
 
 <iframe style="width: 420px; height: 220px; overflow: hidden;" scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/9dUub182W"></iframe> 
 
