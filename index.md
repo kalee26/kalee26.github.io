@@ -27,6 +27,9 @@ key: page-about
 ---
 ## School of Mathematics and Statistics, Paul Johnson, Katie Lee
 
+<img class="image image--sm" src="assets/images/sure_logo.jpg"/>
+<img class="image image--sm" src="assets/images/uni_logo.jpg"/>
+
 <iframe style="width: 420px; height: 220px; overflow: hidden;" scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/9dUub182W"></iframe> 
 
 This website is dedicated to displaying the work that went into my SURE project in the summer of 2022.  Under the supervision of [Paul Johnson](https://ptwiddle.github.io/) I had the opportunity to explore the world of partitions.  Part of the aim of our project was to create cool interactive web tools (as you will see throughout this website and as is demonstrated above).  It is my hope that these p5js sketches inspire people to play with partitions themselves, and that they will discover more of the mathematics in and around partitions than I have had to chance to in a very limited time frame.
