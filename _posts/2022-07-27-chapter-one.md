@@ -52,3 +52,5 @@ Corollary: The number of addable boxes of a partition is 1 greater than the numb
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e1ISiOZA7"></iframe>
 
 <iframe style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/e2ZrTT-TO"></iframe>
+
+Just checking if this actually gets through - technical difficulties
