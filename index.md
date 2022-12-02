@@ -37,3 +37,5 @@ The interactive p5.js sketches, the actual maths, and this website would not hav
 - The Gibbins family - for lending me their lego so I could build real life three-dimensional partitions.  I will get it back to you soon, I promise!
 - Wael Mohammad - for introducing me to GitHub and GitHub pages.  Thanks for all your help!
 - Honorable mentions - Neil Strickland, whose fantastic Combinatorics notes inspired the use of p5.js to make all sorts of cool interactive things for this project.  Dimitrios Roxanas for recommending that I apply for this research scheme.
+
+Let's see if I can add text now
