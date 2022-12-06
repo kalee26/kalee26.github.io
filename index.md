@@ -25,7 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-## Faculty of Science, School of Mathematics and Statistics, Paul Johnson, Katie Lee
 
 <iframe style="width: 420px; height: 220px; overflow: hidden;" scrolling="no" frameborder="0" src="https://editor.p5js.org/klee26/full/9dUub182W"></iframe> 
 
